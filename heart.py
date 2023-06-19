@@ -15,3 +15,4 @@ for i in range(10000):
         color("#fb3fd8")
         goto(0,0)
 done()
+# helo
